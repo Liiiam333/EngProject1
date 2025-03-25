@@ -1,6 +1,6 @@
 @font-face {
     font-family: myFirstFont;
-    src: url("https://liiiam333.github.io/Fonts/AnandaBlackPersonalUseRegular-rg9Rx.ttf");
+    src: url(https://liiiam333.github.io/Fonts/AnandaBlackPersonalUseRegular-rg9Rx.ttf);
 }
 .beBold{
     font-weight: bold;
